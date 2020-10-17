@@ -1,2 +1,2 @@
-# Macro-dynamic-models
-Python assignments and experiment.
+# Economic models
+Python Simulation of dynamic Macroeconomics and competition policy Microeconomic models.
